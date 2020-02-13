@@ -7,7 +7,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Comfortaa', cursive;
     color: #222;
     background: #f7f5f0;
   }
@@ -94,6 +94,10 @@
      padding-top: 20px;
      }
 
+  .card h2 {
+    text-align: center;
+  }
+
   .card {
     margin: 30px;
     padding: 20px 40px 40px;
@@ -164,7 +168,7 @@
     background-image: url(images/linkedin.svg);
   }
   a.github {
-    background-image: url(images/github.svg);
+    background-image: url(file:///C:/Users/shoot/Documents/treehouse%20projects/project1/images/github.svg);
   }
   a.social:hover {
     opacity: 1;
